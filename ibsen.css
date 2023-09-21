@@ -24,3 +24,16 @@
 }
 .speech_Billing{color:hotpink;}
 .speech_Hovstad{color:orange;}
+.table,th,td {
+    border: 1px solid #ddd;
+    color:blue;
+    border-color: brown;
+    margin:50px;
+    padding:10px;
+    /*margin-bottom: 20px;*/
+    text-align: left;
+  }
+  .tr:nth-child(even) {
+    background-color: rgb(21,219,203); /* Row stripes for odd rows */
+  }
+  
