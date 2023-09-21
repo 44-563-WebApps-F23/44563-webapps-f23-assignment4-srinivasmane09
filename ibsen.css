@@ -1,41 +1,24 @@
 .Billing {
-
     color: green;
-
     font-size: 100%;
-
     font-family: Courier;
-
 }
 
 .Hovstad {
-
   color: red;
-
     font-size: 100%;
-
     font-family: Courier;
-
 }
 
 .speech{
-
     color:black;
-
     font-size: 80%;
-
     font-family: verdana;
-
 }
 
 .direction {
-
     background-color: lightblue;
-
   }
-
 .direction:hover{
-
     background-color: blue;
-
 }
